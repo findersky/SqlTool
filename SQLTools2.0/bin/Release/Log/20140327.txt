@@ -1,0 +1,2 @@
+[2014-03-27 01:18:49]：连接数据库服务器[.]：Connect()出现异常，异常信息为：[Microsoft][ODBC SQL Server Driver][SQL Server]用户 'sa' 登录失败。
+
